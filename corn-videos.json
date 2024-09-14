@@ -1,0 +1,9 @@
+{
+  "videos": [
+    "https://example.com/videos/video1.mp4",
+    "https://example.com/videos/video2.mp4",
+    "https://example.com/videos/video3.mp4",
+    "https://example.com/videos/video4.mp4",
+    "https://example.com/videos/video5.mp4"
+  ]
+}
